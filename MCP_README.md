@@ -295,6 +295,7 @@ Once configured, you can ask your AI assistant:
 ### Media & State Management
 | Tool | Description |
 |------|-------------|
+| `list_recent_media` | List the 10 most recent ROM files opened by Gearcoleco |
 | `load_media` | Load a ROM file |
 | `list_save_state_slots` | List save state slots |
 | `select_save_state_slot` | Select active slot |
